@@ -15,7 +15,7 @@
     "label": "Rust (0.50s)",
     "image": "./images/rust.webp",
     "timeFor": 500,
-    "color": "rgb(50, 20, 10)"
+    "color": "rgb(246, 77, 0)"
   },
   {
     "label": "Java (0.54s)",
