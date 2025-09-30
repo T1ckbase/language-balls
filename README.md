@@ -1,4 +1,6 @@
-# language-balls
+# Language Balls
+
+<img src="/out/balls.svg" alt="balls" >
 
 To install dependencies:
 

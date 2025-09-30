@@ -25,7 +25,7 @@ function Balls(languages: Language[]) {
   const ballTravel = 600;
 
   return (
-    <svg width='100%' height={languages.length * rowHeight + 6} xmlns='http://www.w3.org/2000/svg'>
+    <svg width={barX + barWidth + ballTravel + ballRadius * 2} height={languages.length * rowHeight + 6} xmlns='http://www.w3.org/2000/svg'>
       {/* <rect width='100%' height='100%' fill='black' /> */}
       {languages.map((lang, index) => {
         const yOffset = index * rowHeight + 4;
