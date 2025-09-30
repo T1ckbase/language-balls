@@ -1,0 +1,92 @@
+[
+  {
+    "label": "ThePrimeagen (0.069s)",
+    "image": "./images/theprimeagen.webp",
+    "timeFor": 69,
+    "color": "rgb(255, 49, 0)"
+  },
+  {
+    "label": "C/clang -O3 (0.50s)",
+    "image": "./images/c.webp",
+    "timeFor": 500,
+    "color": "rgb(101, 155, 211)"
+  },
+  {
+    "label": "Rust (0.50s)",
+    "image": "./images/rust.webp",
+    "timeFor": 500,
+    "color": "rgb(50, 20, 10)"
+  },
+  {
+    "label": "Java (0.54s)",
+    "image": "./images/java.webp",
+    "timeFor": 540,
+    "color": "rgb(242, 164, 67)"
+  },
+  {
+    "label": "Kotlin (0.56s)",
+    "image": "./images/kotlin.webp",
+    "timeFor": 560,
+    "color": "rgb(177, 36, 234)"
+  },
+  {
+    "label": "Go (0.80s)",
+    "image": "./images/go.webp",
+    "timeFor": 800,
+    "color": "#5dcef0"
+  },
+  {
+    "label": "Js/Bun (0.80s)",
+    "image": "./images/bun.webp",
+    "timeFor": 800,
+    "color": "#e3a1b6"
+  },
+  {
+    "label": "Js/Node (1.03s)",
+    "image": "./images/node.webp",
+    "timeFor": 1030,
+    "color": "#27b648"
+  },
+  {
+    "label": "Js/Deno (1.06s)",
+    "image": "./images/deno.webp",
+    "timeFor": 1060,
+    "color": "rgb(0, 0, 0)"
+  },
+  {
+    "label": "Dart (1.34s)",
+    "image": "./images/dart.webp",
+    "timeFor": 1340,
+    "color": "rgb(39, 185, 247)"
+  },
+  {
+    "label": "PyPy (1.53s)",
+    "image": "./images/pypy.webp",
+    "timeFor": 1530,
+    "color": "rgb(193, 198, 187)"
+  },
+  {
+    "label": "PHP (9.93s)",
+    "image": "./images/php.webp",
+    "timeFor": 9930,
+    "color": "rgb(120, 124, 180)"
+  },
+  {
+    "label": "Ruby (28.80s)",
+    "image": "./images/ruby.webp",
+    "timeFor": 28800,
+    "color": "rgb(215, 48, 22)"
+  },
+  {
+    "label": "R (73.16s)",
+    "image": "./images/r.webp",
+    "timeFor": 73160,
+    "color": "rgb(25, 103, 286)"
+  },
+  {
+    "label": "Python (74.42s)",
+    "image": "./images/python.webp",
+    "timeFor": 74420,
+    "color": "rgb(255, 226, 94)"
+  }
+]
